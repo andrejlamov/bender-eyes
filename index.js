@@ -1,6 +1,7 @@
 import "regenerator-runtime/runtime";
 import * as d3 from "d3";
-import bender_eyes from "./bender-eyes.svg";
+//import bender_eyes from "./bender-eyes.svg";
+const bender_eyes = "bender-eyes.svg"
 
 // Thanks Mike https://bl.ocks.org/mbostock/8027637
 function closestPoint(pathNode, point) {

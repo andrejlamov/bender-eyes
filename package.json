@@ -1,0 +1,13 @@
+{
+  "name": "bender-eyes",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "d3": "^7.0.0"
+  }
+}
